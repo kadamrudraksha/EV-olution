@@ -1,7 +1,7 @@
 
 # EV-olution
 
-**ev-olution** is an interactive web-based application designed to showcase dynamic hero sections with seamless transitions. The project integrates modern UI/UX practices, providing an engaging user experience through automated content exploration. Key functionalities include:
+**EV-olution** is an interactive web-based application designed to showcase dynamic hero sections with seamless transitions. The project integrates modern UI/UX practices, providing an engaging user experience through automated content exploration. Key functionalities include:
 
 - **Auto-Slide Transitions**: Smooth automatic slide transitions between content blocks, with customizable intervals.
 - **Media Controls**: Play and pause buttons for controlling multimedia content within the hero section.
